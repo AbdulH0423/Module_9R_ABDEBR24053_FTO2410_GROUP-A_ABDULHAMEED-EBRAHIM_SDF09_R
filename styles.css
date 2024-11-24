@@ -7,3 +7,14 @@ body{
     text-align: center;
 }
 
+h1{
+    color: gold;
+    font-size: 3em;
+}
+h3{
+    font-size: 1.75em ;
+}
+p{
+    font-size: 1.25em;
+}
+
