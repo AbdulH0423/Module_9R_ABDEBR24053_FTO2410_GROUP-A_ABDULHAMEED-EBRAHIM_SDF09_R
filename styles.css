@@ -18,6 +18,10 @@ p{
     font-size: 1.25em;
 }
 
+#message-el{
+    font-style: italic;
+}
+
 button{
     color: black;
     width: 150px;
